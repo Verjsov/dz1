@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.news-list {
+  text-align: -webkit-center!important;
+  text-align: center!important;
+  padding: .5rem;
+}
